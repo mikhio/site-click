@@ -1,0 +1,43 @@
+.text{
+	text-align: center;
+	/*font-family: Verdana;*/
+}
+.temp {
+	color: black;
+}
+.circle {
+	width: 100px;
+	height: 100px;
+	background: #56e67c;
+	border-radius: 50px;
+	margin: 20px auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    border: 3px solid black; 
+}
+body {
+	background: #ea4e4e;
+}
+.window {
+	width: 400px;
+	height: 400px;
+	border-radius: 20px;
+	border: 3px solid black;
+	margin: 20px auto;
+	background: #5bcee0;
+}
+.on{
+	border-radius: 10px;
+	background: yellow; 
+    color: black;  
+    font-size: 30px;
+    border: 3px solid black;
+}
+.off{
+	border-radius: 10px;
+	background: yellow; 
+    color: black;  
+    font-size: 30px;
+    border: 3px solid black;
+}
